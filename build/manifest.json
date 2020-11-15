@@ -4,9 +4,9 @@
   "description":"This extension will help you identify the fake news in your current tab's",
   "version":"1.0",
   "icons": {
-    "16":"logo1.png",
-    "48":"logo1.png",
-    "128":"logo1.png"
+    "16":"./assets/img/logo.png",
+    "48":"./assets/img/logo.png",
+    "128":"./assets/img/logo.png"
   },
 
   "browser_action":{
